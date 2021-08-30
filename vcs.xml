@@ -10,6 +10,10 @@
           <option name="url" value="git@git.birst.com:eng/birst.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.birst.com/eng/birst.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mlaskowski\OneDrive - Infor\Documents\EclipseWorkspace" />
