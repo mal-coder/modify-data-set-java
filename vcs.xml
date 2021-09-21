@@ -18,6 +18,10 @@
           <option name="url" value="https://git.birst.com/eng/birst" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.birst.com" />
+          <option name="userName" value="maciej.laskowski@infor.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Birst VM images\Shared" />
