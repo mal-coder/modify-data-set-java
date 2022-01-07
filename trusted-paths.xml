@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/repos" />
         <option value="C:/Birst VM images/Shared" />
+        <option value="Z:/" />
       </list>
     </option>
   </component>
