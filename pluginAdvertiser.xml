@@ -114,22 +114,22 @@
                   </entry>
                   <entry key="org.mule.lang.battest.configuration">
                     <value>
-                      <FeaturePluginData displayName="Bat Test" pluginName="Mulesoft DataWeave 2.0 And RestSdk." pluginId="org.mule.tooling.intellij.dataweave.v2" />
+                      <FeaturePluginData displayName="Bat Test" pluginName="Mulesoft: DataWeave RAML RestSdk" pluginId="org.mule.tooling.intellij.dataweave.v2" />
                     </value>
                   </entry>
                   <entry key="org.mule.lang.dw.configuration">
                     <value>
-                      <FeaturePluginData displayName="Data Weave" pluginName="Mulesoft DataWeave 2.0 And RestSdk." pluginId="org.mule.tooling.intellij.dataweave.v2" />
+                      <FeaturePluginData displayName="Data Weave" pluginName="Mulesoft: DataWeave RAML RestSdk" pluginId="org.mule.tooling.intellij.dataweave.v2" />
                     </value>
                   </entry>
                   <entry key="org.mule.lang.weaveintegrationtest.configuration">
                     <value>
-                      <FeaturePluginData displayName="Weave Integration Test" pluginName="Mulesoft DataWeave 2.0 And RestSdk." pluginId="org.mule.tooling.intellij.dataweave.v2" />
+                      <FeaturePluginData displayName="Weave Integration Test" pluginName="Mulesoft: DataWeave RAML RestSdk" pluginId="org.mule.tooling.intellij.dataweave.v2" />
                     </value>
                   </entry>
                   <entry key="org.mule.lang.weavetest.configuration">
                     <value>
-                      <FeaturePluginData displayName="Weave Test" pluginName="Mulesoft DataWeave 2.0 And RestSdk." pluginId="org.mule.tooling.intellij.dataweave.v2" />
+                      <FeaturePluginData displayName="Weave Test" pluginName="Mulesoft: DataWeave RAML RestSdk" pluginId="org.mule.tooling.intellij.dataweave.v2" />
                     </value>
                   </entry>
                 </map>
